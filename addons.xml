@@ -17,7 +17,7 @@
 		<assets><icon>icon.png</icon></assets>
 	</extension>
 </addon>
-<addon id="skin.palantir.flix" version="1.0.0" name="Palantir Flix" provider-name="The Lords Of Flix · mod Flix">
+<addon id="skin.palantir.flix" version="1.0.2" name="Palantir Flix" provider-name="The Lords Of Flix · mod Flix">
 	<requires>
 		<!-- <import addon="xbmc.gui" version="5.16.0" allowed-versions="5.17.0"/> -->
 		<import addon="script.skinshortcuts" version="0.4.0"  optional="true"/>
@@ -33,7 +33,7 @@
 		<res width="2160" height="1080" aspect="18:9" default="false" folder="xml" /> -->
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<path>skin.palantir.flix-1.0.0.zip</path>
+		<path>skin.palantir.flix-1.0.2.zip</path>
 		<platform>all</platform>
 		<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
 		<forum></forum>
